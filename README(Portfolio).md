@@ -14,18 +14,17 @@ Table of Contents
 
 # Description
 
-I built this project to improve my ability to work with HTML/CSS and understand both accessibility and search engine
-optimization standards.
+I built this project to test myself on building a webpage from scratch using FlexBox and Media Queries to create a structured, and responsive design. In addition, I attempted to duplicate a given design to the best of my ability which could become relevant when working with designers to reflect their ideas.
 
 # Installation
 
-In order to open the github project repository visit: ("https://github.com/DanielPeterman/01-Homework"), the user will need to install within any web browser (ex. Google Chrome, Safari, IE, etc.) 
+In order to open the github project repository visit: ("#Work"), the user will need to install within any web browser (ex. Google Chrome, Safari, IE, etc.) 
 
 # Usage
 
-In order to open this project page, please visit: ("https://danielpeterman.github.io/01-Homework/") within any web browser.
+In order to open this project page, please visit: ("https://danielpeterman.github.io/02-Homework/") within any web browser.
 
-![Horiseon Website Screenshot](./develop/assets/images/screenshot.png)
+![Portfolio Website Screenshot]()
 
 # Credits
 
