@@ -18,13 +18,13 @@ I built this project to test myself on building a webpage from scratch using Fle
 
 # Installation
 
-In order to open the github project repository visit: ("#Work"), the user will need to install within any web browser (ex. Google Chrome, Safari, IE, etc.) 
+In order to open the github project repository visit: ("https://github.com/DanielPeterman/Advanced-CSS-Portfolio"), the user will need to install within any web browser (ex. Google Chrome, Safari, IE, etc.) 
 
 # Usage
 
-In order to open this project page, please visit: ("https://danielpeterman.github.io/02-Homework/") within any web browser.
+In order to open this project page, please visit: ("https://danielpeterman.github.io/Advanced-CSS-Portfolio/") within any web browser.
 
-![Portfolio Website Screenshot]()
+![Portfolio Website Screenshot](Images/Portfolio-Screenshot.png)
 
 # Credits
 
